@@ -32,7 +32,7 @@ const ProductorasList = () => {
       showCancelButton: true,
       confirmButtonColor: '#b333dd',
       cancelButtonColor: '#3085d6',
-      confirmButtonText: 'Sí, eliminar',
+      confirmButtonText: 'Si, eliminar',
       cancelButtonText: 'Cancelar',
     });
     if (result.isConfirmed) {
